@@ -12,5 +12,3 @@ pull:
 	@git pull
 savetogit:
 	@git add . && git commit -m 'saving' && git push
-
-
